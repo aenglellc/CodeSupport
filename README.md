@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/company/aengle-consulting-llc/) [![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555)](https://twitter.com/aenglellc) [![Website](https://img.shields.io/badge/website-555?style=for-the-badge&logo=About.me&logoColor=white)](https://aengleconsulting.com/)
 
-# Aengle LLC Patreon Repository
+# Aengle LLC Code Support Repository
 
 #### A GitHub repository for public health data science
 
@@ -8,7 +8,7 @@
 
 ## About The Project
 
-This is a GitHub repository for Aengle LLC Patreons. Here is a link to our [Patreon page](https://www.patreon.com/aengle) community!
+This is a GitHub repository for sharing code tips and tricks for people in public health. 
 
 ## Getting Started
 
